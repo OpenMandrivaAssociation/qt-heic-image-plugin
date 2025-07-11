@@ -1,7 +1,7 @@
 #define date 20210206
 
 Name: qt-heic-image-plugin
-Version: 0.6.0
+Version: 0.6.1
 Release: %{?date:0.%{date}.}1
 Source0: https://github.com/novomesk/qt-heic-image-plugin/archive/%{?date:master}%{!?date:v%{version}}/%{name}-%{version}.tar.gz
 Summary: Qt plugin for working with HEIC image files
